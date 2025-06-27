@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mern Tech Stack**
 
-- 👨‍💻 All of my projects are available at [https://portfoliosscgi.netlify.app/](https://v03portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [LINK TO MY PORTFOLIO/](https://v03portfolio.netlify.app/)
 
 - 📫 How to reach me **aceshapiz6@gmail.com**
 
